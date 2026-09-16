@@ -1,3 +1,6 @@
 /.Rproj.user
 /markdowns/data
 .Renviron
+data/api_key.txt
+/apps/job_scout_chat/.shinychat
+/apps/job_scout_chat/shiny_bookmarks
